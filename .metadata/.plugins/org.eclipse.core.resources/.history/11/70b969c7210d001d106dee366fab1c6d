@@ -1,0 +1,19 @@
+package com.sandeep.hibernate;
+
+import com.mysql.cj.xdevapi.SessionFactory;
+
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+    public static void main( String[] args )
+    {
+       System.out.println("Project Started");
+       
+       SessionFactory factory = new SessionFactory();
+       System.out.println(factory);
+       
+    }
+}

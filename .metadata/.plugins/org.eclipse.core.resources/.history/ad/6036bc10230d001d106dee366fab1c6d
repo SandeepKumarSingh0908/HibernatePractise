@@ -1,0 +1,5 @@
+package com.sandeep.hibernate;
+
+public class Student {
+
+}

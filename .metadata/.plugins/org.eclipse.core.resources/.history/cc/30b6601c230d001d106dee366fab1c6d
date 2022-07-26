@@ -1,0 +1,5 @@
+package com.sandeep.hibernate.entity;
+
+public class Student {
+
+}
